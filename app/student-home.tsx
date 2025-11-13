@@ -58,7 +58,7 @@ export default function OrganizerHome() {
             </View>
             <View>
               <Text style={styles.presenceNumber}>89%</Text>
-              <Text style={styles.presenceLabel}>Present</Text>
+              <Text style={styles.presenceLabel}>PRESENT SAKA</Text>
             </View>
           </View>
 
